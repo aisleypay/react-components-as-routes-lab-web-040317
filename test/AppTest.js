@@ -4,7 +4,7 @@ import { expect } from 'chai';
 import { shallow } from 'enzyme';
 
 // Components
-import App from '../src/components/App';
+import App from '../src/containers/App';
 import NavBar from '../src/components/NavBar';
 
 describe('<App />', () => {
